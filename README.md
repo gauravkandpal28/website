@@ -72,19 +72,6 @@ then open `http://localhost:8000`.
 
 ## Design and content notes
 
-The visual reference requested by the owner is
-https://kapil2020.github.io/website/#about (inspected 3 November 2026).
-The layout, typography, palette, spacing, publication format, timeline, and
-animation treatment were recreated for Gaurav's profile. New illustrations
-and animation scenes describe statistics rather than the reference owner's
-transportation research. No reference-owner portrait, biography, publications,
-patent, software projects, or personal links are included.
-
-Resources and Education replace the reference's Software and Service sections
-because those are the supplied profile categories. No service appointments or
-software projects have been invented. The printable CV was compiled from the
-same supplied information; it is not an uploaded original CV.
-
 The source information and photographs came from Gaurav's Google Site:
 https://sites.google.com/view/gauravstat/bio and its linked Work & Education,
 Publications, Research, Conferences & Workshops, and Important Templates pages.
